@@ -1,8 +1,8 @@
-#!/usr/bin/env python
+ï»¿#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# cap-05-funcoes.py exemplos de utilização de função;
+# cap-05-funcoes.py exemplos de utilizaÃ§Ã£o de funÃ§Ã£o;
 
-# Funções sem return
+# FunÃ§Ãµes sem return
 
 def funcao1():
 	pass
@@ -37,7 +37,7 @@ print "funcao5"
 funcao5("primeiro", "1",6,7,8,9,10,par=1, impar=0)
 funcao5("primeiro", "altera o default","eita","ouro",par=1, impar=0)
 
-#Funções com Return
+#FunÃ§Ãµes com Return
 
 def return1():
 	return "teste"
