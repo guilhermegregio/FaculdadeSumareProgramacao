@@ -8,3 +8,6 @@ except:
 	contador = 0
 
 print "Numero de reloads: %s" % (contador)
+
+
+### reload(cap_07_contador)
