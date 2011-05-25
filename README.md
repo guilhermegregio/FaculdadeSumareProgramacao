@@ -5,7 +5,8 @@
 
 ##Estrutura de dados##
 
+GUILHERME MANGABEIRA GREGIO
 
-GUILHERME MANGABEIRA GREGIO 
 <guilherme@gregio.net> 
+
 WWW.GREGIO.NET
