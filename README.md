@@ -1,6 +1,6 @@
-#Exercicios da Faculdade#
+ï»¿#Exercicios da Faculdade#
 
-##Programação##
+##ProgramaÃ§Ã£o##
 
 ##Estrutura de dados##
 
